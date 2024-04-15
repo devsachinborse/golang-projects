@@ -1,5 +1,5 @@
 build:
-	@go build -o bin/go-workspace
+	@go build -o bin/04.go-restapi-jwt
 
 run:build
 	./bin/go-workspace
